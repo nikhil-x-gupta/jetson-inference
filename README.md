@@ -1,2 +1,7 @@
-# jetson-inference
-Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+# Hello AI World summary by Nikhil Gupta
+
+## Table of Contents
+1. Original Starting Guide()
+2. Buidling from Source
+3. Setting up VNC server
+4. Starting up RTSP stream
